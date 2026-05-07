@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔐 SecureVault Pro
+# 🔐 Secure Vault Pro
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![Security](https://img.shields.io/badge/CyberSecurity-Encryption-red?style=for-the-badge)
