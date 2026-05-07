@@ -271,8 +271,4 @@ If you like this project:
 
 ---
 
-<div align="center">
 
-### 🔥 Secure Your Files Like a Pro 🔥
-
-</div>
